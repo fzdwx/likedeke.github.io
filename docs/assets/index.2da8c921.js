@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.5a098b48.js";import{o as r,e as a,F as n,f as o}from"./vendor.dc9676c4.js";const s={name:"index.vue"},t=o("h1",null,"welcome my web site",-1),l=o("a",{href:"test"},"测试",-1);var u=e(s,[["render",function(e,o,s,u,m,f){return r(),a(n,null,[t,l],64)}]]);export{u as default};
